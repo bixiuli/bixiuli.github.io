@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xiuli Bi's Homepage"
 title_separator          : "-"
 name                     : &name "Xiuli Bi"
-description              : &description "personal description"
+description              : &description "Xiuli Bi’ academic site"
 url                      : https://bixiuli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bixiuli.github.io"
@@ -85,7 +85,7 @@ author:
   bio              : "Professor, Ph.D supervisor"
   location         : "Chongqing, China"
   employer         :
-  pubmed           : %"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=1Ezgfw8AAAAJ&hl=zh-CN"
   email            : "bixiuli@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
