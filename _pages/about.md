@@ -31,7 +31,7 @@ Research Experience
 
 Publications
 ------
-Check the full list [here]([https://scholar.google.com/citations?user=XmqjPi0AAAAJ&hl=en](https://scholar.google.com/citations?user=1Ezgfw8AAAAJ&hl=zh-CN)).
+Check the full list [here](https://scholar.google.com/citations?user=1Ezgfw8AAAAJ&hl=zh-CN).
 - Privacy-preserving color image feature extraction by quaternion discrete orthogonal moments.<br>
 **Xiuli Bi**, Chao Shuai, Bo Liu, Bin Xiao, Weisheng Li, and Xinbo Gao. <br>
      IEEE Transactions on Information Forensics and Security, 2022.
