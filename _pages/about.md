@@ -35,7 +35,7 @@ Check the full list [here]([https://scholar.google.com/citations?user=XmqjPi0AAA
 - Privacy-preserving color image feature extraction by quaternion discrete orthogonal moments.  <br>
 **Xiuli Bi**, Wuqing Yan, Bo Liu, Bin Xiao, Weisheng Li, and Xinbo Gao. <br>
      IEEE Transactions on Information Forensics and Security, 2022.
-<a href="[https://ieeexplore.ieee.org/abstract/document/9811396]">[paper]</a>
+<a href="https://ieeexplore.ieee.org/abstract/document/9811396">[paper]</a>
 
 - [IEMask R-CNN: Information-enhanced Mask R-CNN]<br>
 **Xiuli Bi**, Jinwu Hu, Bin Xiao*, WeiSheng Li, Xinbo Gao. <br>
