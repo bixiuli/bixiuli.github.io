@@ -33,14 +33,24 @@ Publications
 ------
 Check the full list [here]([https://scholar.google.com/citations?user=XmqjPi0AAAAJ&hl=en](https://scholar.google.com/citations?user=1Ezgfw8AAAAJ&hl=zh-CN)).
 - Privacy-preserving color image feature extraction by quaternion discrete orthogonal moments.<br>
-**Xiuli Bi**, Wuqing Yan, Bo Liu, Bin Xiao, Weisheng Li, and Xinbo Gao. <br>
+**Xiuli Bi**, Chao Shuai, Bo Liu, Bin Xiao, Weisheng Li, and Xinbo Gao. <br>
      IEEE Transactions on Information Forensics and Security, 2022.
+<a href="https://ieeexplore.ieee.org/abstract/document/9811396">[paper]</a>
+
+- A versatile detection method for various contrast enhancement manipulations.<br>
+**Xiuli Bi**, Yixuan Shang, Bo Liu, Bin Xiao, Weisheng Li, and Xinbo Gao. <br>
+     IEEE Transactions on Circuits and Systems for Video Technology, 2022.
 <a href="https://ieeexplore.ieee.org/abstract/document/9811396">[paper]</a>
 
 - IEMask R-CNN: Information-enhanced Mask R-CNN.<br>
 **Xiuli Bi**, Jinwu Hu, Bin Xiao*, WeiSheng Li, Xinbo Gao. <br>
      IEEE Transactions on Big Data, 2022.
 <a href="https://ieeexplore.ieee.org/abstract/document/9811396">[paper]</a>  <a href="https://github.com/Fhujinwu/IEMask">[code]</a>
+
+- 2d-lcolbp: A learning two-dimensional co-occurrence local binary pattern for image recognition.<br>
+**Xiuli Bi**, Yuan Yuan, Bin Xiao, Weisheng Li, and Xinbo Gao. <br>
+     IEEE Transactions on Image Processing, 2021.
+<a href="https://ieeexplore.ieee.org/abstract/document/9811396">[paper]</a>
 
 Professonal Activities
 ------
