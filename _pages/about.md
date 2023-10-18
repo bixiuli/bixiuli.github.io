@@ -10,14 +10,13 @@ redirect_from:
 
 About Me
 ------
-I am currently a professor with the College of Computer Science and Technology at Chongqing University of Posts and Telecommunications. I received her B.Sc. and M.Sc. degrees from Shanxi Normal University, China, in 2004 and 2007 respectively, and Ph.D. degree in Computer Science from the University of Macau in 2017. My research interests include image processing, multimedia security and forensic.
+I am currently a professor with the College of Computer Science and Technology at Chongqing University of Posts and Telecommunications. I received her B.Sc. and M.Sc. degrees from Shanxi Normal University, China, in 2004 and 2007 respectively, and Ph.D. degree in Computer Science from the University of Macau in 2017.
 
 Research Interests
 ------
 - Image Processing and Pattern Recognition.
-- Multimedia Security.
-- Forensic and Privacy.
-- AI Security and Adversarial Machine Learning.
+- Multimedia Forensic
+- Adversarial Machine Learning.
 
 Research Experience
 ------
@@ -31,7 +30,17 @@ Research Experience
 
 Publications
 ------
-Check the full list [here](https://scholar.google.com/citations?user=1Ezgfw8AAAAJ&hl=zh-CN).
+Check the complete list [here](https://scholar.google.com/citations?user=1Ezgfw8AAAAJ&hl=zh-CN).
+- Self-supervised image local forgery detection by JPEG compression trace.<br>
+**Xiuli Bi**, Wuqing Yan, Bo Liu, Bin Xiao, Weisheng Li, Xinbo Gao. <br>
+     Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2023.
+<a href="https://ojs.aaai.org/index.php/AAAI/article/view/25095">[paper]</a>
+
+- DLBD: A Self-Supervised Direct-Learned Binary Descriptor.<br>
+Bin Xiao, Yang Hu, Bo Liu, **Xiuli Bi***, Weisheng Li, Xinbo Gao. <br>
+     Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023.
+<a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Xiao_DLBD_A_Self-Supervised_Direct-Learned_Binary_Descriptor_CVPR_2023_paper.pdf">[paper]</a>
+
 - Privacy-preserving color image feature extraction by quaternion discrete orthogonal moments.<br>
 **Xiuli Bi**, Chao Shuai, Bo Liu, Bin Xiao, Weisheng Li, and Xinbo Gao. <br>
      IEEE Transactions on Information Forensics and Security, 2022.
@@ -44,7 +53,7 @@ Check the full list [here](https://scholar.google.com/citations?user=1Ezgfw8AAAA
 
 - Detecting generated images by real images.<br>
 Bo Liu, Fan Yang, **Xiuli Bi***, Bin Xiao, Weisheng Li, and Xinbo Gao. <br>
-     ECCV, 2022.
+    European Conference on Computer Vision (ECCV), 2022.
 <a href="https://link.springer.com/chapter/10.1007/978-3-031-19781-9_6">[paper]</a>
 
 - IEMask R-CNN: Information-enhanced Mask R-CNN.<br>
@@ -52,11 +61,21 @@ Bo Liu, Fan Yang, **Xiuli Bi***, Bin Xiao, Weisheng Li, and Xinbo Gao. <br>
      IEEE Transactions on Big Data, 2022.
 <a href="https://ieeexplore.ieee.org/abstract/document/9811396">[paper]</a>  <a href="https://github.com/Fhujinwu/IEMask">[code]</a>
 
-- 2d-lcolbp: A learning two-dimensional co-occurrence local binary pattern for image recognition.<br>
+- Reality transform adversarial generators for image splicing forgery detection and localization.<br>
+**Xiuli Bi**, Zhipeng Zhang, Bin Xiao. <br>
+    Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2021.
+<a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Bi_Reality_Transform_Adversarial_Generators_for_Image_Splicing_Forgery_Detection_and_ICCV_2021_paper.pdf">[paper]</a>
+
+- DTMNet: a discrete tchebichef moments-based deep neural network for multi-focus image fusion.<br>
+Bin Xiao, Haifeng Wu, **Xiuli Bi***. <br>
+    Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2021.
+<a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Xiao_DTMNet_A_Discrete_Tchebichef_Moments-Based_Deep_Neural_Network_for_Multi-Focus_ICCV_2021_paper.pdf">[paper]</a>
+
+- 2D-LCoLBP: A Learning Two-Dimensional Co-Occurrence Local Binary Pattern for Image Recognition.<br>
 **Xiuli Bi**, Yuan Yuan, Bin Xiao, Weisheng Li, and Xinbo Gao. <br>
      IEEE Transactions on Image Processing, 2021.
 <a href="https://ieeexplore.ieee.org/abstract/document/9515711/">[paper]</a>
 
-Professonal Activities
+Professional Activities
 ------
 - CCF member.
